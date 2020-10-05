@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/strava-club-challenge/static/css/main.2fe2330f.chunk.css",
-    "main.js": "/strava-club-challenge/static/js/main.8ced941f.chunk.js",
-    "main.js.map": "/strava-club-challenge/static/js/main.8ced941f.chunk.js.map",
+    "main.js": "/strava-club-challenge/static/js/main.d099f23f.chunk.js",
+    "main.js.map": "/strava-club-challenge/static/js/main.d099f23f.chunk.js.map",
     "runtime-main.js": "/strava-club-challenge/static/js/runtime-main.13ac7f26.js",
     "runtime-main.js.map": "/strava-club-challenge/static/js/runtime-main.13ac7f26.js.map",
     "static/js/2.74c288a9.chunk.js": "/strava-club-challenge/static/js/2.74c288a9.chunk.js",
     "static/js/2.74c288a9.chunk.js.map": "/strava-club-challenge/static/js/2.74c288a9.chunk.js.map",
     "index.html": "/strava-club-challenge/index.html",
-    "precache-manifest.caa080e1406684354dd61ae25c379702.js": "/strava-club-challenge/precache-manifest.caa080e1406684354dd61ae25c379702.js",
+    "precache-manifest.b5ab557fbc62cf5a1dc2df541d4ff87a.js": "/strava-club-challenge/precache-manifest.b5ab557fbc62cf5a1dc2df541d4ff87a.js",
     "service-worker.js": "/strava-club-challenge/service-worker.js",
     "static/css/main.2fe2330f.chunk.css.map": "/strava-club-challenge/static/css/main.2fe2330f.chunk.css.map",
     "static/js/2.74c288a9.chunk.js.LICENSE.txt": "/strava-club-challenge/static/js/2.74c288a9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.13ac7f26.js",
     "static/js/2.74c288a9.chunk.js",
     "static/css/main.2fe2330f.chunk.css",
-    "static/js/main.8ced941f.chunk.js"
+    "static/js/main.d099f23f.chunk.js"
   ]
 }
